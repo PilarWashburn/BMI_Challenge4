@@ -1,4 +1,4 @@
-const { Person, BMICalculator } = require('./spec.helper')
+const { Person, BMICalculator } = require('../spec.helper')
 
 describe("BMICalculator", function() {
   let bmi_calculator;
